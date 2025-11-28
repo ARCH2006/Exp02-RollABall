@@ -2,7 +2,6 @@
 
 ## Aim:
 To develop a 3D application to roll a ball in unity
-### To develop a 3D application to roll a ball in unity
 
 ## Algorithm:
 ## Steps:
